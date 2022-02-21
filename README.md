@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amaushook
 - 👀 I’m interested in Data Science, Deep Learning, ML, AI, Web Development Projects
-- 🌱 Front-End Stacks => Flutter, React-JS
+- 🌱 Front-End Stacks () => Flutter, React-JS
 - 💞️ I’m looking to collaborate on Feature Engineering, ETL, Data Migration
 - 📫 How to reach me amaushook@tnsinc.com / maushook.ahmed@brainvaulttech.com / contact@neural-bots.com / maushook@gmail.com
 
